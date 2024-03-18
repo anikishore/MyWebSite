@@ -1,6 +1,10 @@
 This is first file
 Checking out the modified file
 Chalengineg
+<<<<<<< HEAD
 I am running and checking the branch level changes.
+=======
+I am checking and checking the branch level changes.
+>>>>>>> b1
 I am running and checking the branch level changes.
 RUnning fourth line
