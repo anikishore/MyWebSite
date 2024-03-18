@@ -1,4 +1,6 @@
 It's my third text b1 file.
 Checking the modified
+It's my third text file.
+Checking the b2
 it's my third by U2 changes.
 it's my third by U1 changes.
