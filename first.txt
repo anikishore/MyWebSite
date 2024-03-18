@@ -1,1 +1,2 @@
 This is first file
+Checking out the modified file
