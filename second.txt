@@ -4,5 +4,4 @@ Main second first line
 Don't know it's 4th line
 this is second file
 it's a second line
-it's a seven line
 it's a third line
