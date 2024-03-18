@@ -1,4 +1,9 @@
 This is first file
 Checking out the modified file
+<<<<<<< HEAD
 Chalengineg
 I am running and checking the branch level changes.
+=======
+I am running and checking the branch level changes.
+RUnning fourth line
+>>>>>>> f2
